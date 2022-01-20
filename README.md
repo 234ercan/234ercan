@@ -1,8 +1,8 @@
 <img src=""/>
 <h1>Hi, I`m Ercan</h1>
-<p>Father of two, Math expert, good resader </p>
+<p></p>
 <ul>
   <li>Currentl working with Soft innovas</li>
-  <li>HTML, CSS, Javascript, Python, </li>
+  <li>HTML, CSS, Javascript, Python, React, RN, MongoDB, SQL, Apex, Salesforces</li>
   <li>linkedIn</li>
 </ul>
