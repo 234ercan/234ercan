@@ -1,4 +1,4 @@
-<img />
+<img src=""/>
 <h1>Hi, I`m Ercan</h1>
 <p>Father of two, Math expert, good resader </p>
 <ul>
