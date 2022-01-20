@@ -1,4 +1,4 @@
-<img src=""/>
+<img src="banner.jfif"/>
 <h1>Hi, I`m Ercan</h1>
 <p></p>
 <ul>
