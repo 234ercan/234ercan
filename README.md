@@ -5,6 +5,6 @@
 <ul>
   <li>Currently working with Soft innovas</li>
   <li>HTML, CSS, Javascript, Python, React, RN, MongoDB, SQL, Apex, Salesforces</li>
-  <li>linkedIn: https://www.linkedin.com/in/ercan-yilmaz-7735051ba/ </li>
+  <li>linkedIn: https://www.linkedin.com/in/ercan-yilmaz-7735051ba/  https://www.linkedin.com/feed/ </li>
 </ul>
 </div>
