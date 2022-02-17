@@ -1,4 +1,4 @@
-<img align="justify" src="banner.jfif">
+<img src="banner.jfif" class="center">
 <h1 align="center">Hi, I`m Ercan</h1>
 <h3 align="center">Salesforce Admin&Developer</h3>
 <h3 align="center"> Full satck developer</h3>
