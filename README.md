@@ -44,13 +44,13 @@
 </table>
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<h2 align="center">Courses</h2>
+
+<h2 align="center">Skills</h2>
 <table width="100%" align="center">
   <tr>
     <td align="center">
-      <a href="https://techproeducation.com/courses/full-stack-java-developer" target="_blank">
-        <img src="https://github.com/techproeducationgit/techproeducationgit/blob/master/images/techproeducation-full-stack-java-developer.png?raw=true" width="200"/>
+      <a href="https://www.w3schools.com/html/" target="_blank">
+        <img src=" https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F6%2F61%2FHTML5_logo_and_wordmark.svg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&tbnid=O2LAft90i-2uhM&vet=12ahUKEwi4mM_A6Yf2AhXIuSoKHealD-YQMygAegUIARDWAQ..i&docid=1Ted8cCjatfjsM&w=800&h=800&q=HTML&hl=en-GB&ved=2ahUKEwi4mM_A6Yf2AhXIuSoKHealD-YQMygAegUIARDWAQ#imgrc=O2LAft90i-2uhM&imgdii=r23f5THJx-OHoM" width="200"/>
       </a>
       <p>Full Stack Java Developer</p>
     </td>
