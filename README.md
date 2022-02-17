@@ -54,12 +54,7 @@
       </a>
       <p>HTML 5</p>
     </td>
-    <td align="center">
-      <a href="https://techproeducation.com/courses/full-stack-mobile-developer" target="_blank">
-        <img src="https://github.com/techproeducationgit/techproeducationgit/blob/master/images/techproeducation-full-stack-mobile-developer.png?raw=true" width="200"/>
-      </a>
-      <p>Full Stack Mobile Developer</p>
-    </td>
+   
     <td align="center">
       <a href="       " target="_blank">
         <img src="                " width="200"/></a>
@@ -71,6 +66,13 @@
       <p>Java Script</p>
     </td>
   </tr>
+  
+   <td align="center">
+      <a href="           " target="_blank">
+        <img src="      " width="200"/>
+      </a>
+      <p> MongoDB   </p>
+    </td>
   
   <tr>
     <td align="center">
