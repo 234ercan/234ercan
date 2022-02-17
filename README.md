@@ -46,53 +46,64 @@
 <p>&nbsp;</p>
 
 <h2 align="center">Skills</h2>
+
+
 <table width="100%" align="center">
-  <tr>
+    <tr>
     <td align="center">
       <a href="https://www.w3schools.com/html/" target="_blank">
-        <img src="C:\Users\234er\Downloads\HTML logo.png" width="200"/>
+        <img src=" " width="200"/>
       </a>
       <p>HTML 5</p>
     </td>
    
     <td align="center">
       <a href="       " target="_blank">
-        <img src="                " width="200"/></a>
+        <img src="                " width="200"/>
+      </a>
       <p>CSS</p>
     </td>
+    
     <td align="center">
       <a href="     " target="_blank">
-        <img src="             " width="200"/></a>
+        <img src="             " width="200"/>
+      </a>
       <p>Java Script</p>
     </td>
-  </tr>
-  
-   <td align="center">
+    
+    <td align="center">
       <a href="           " target="_blank">
         <img src="      " width="200"/>
       </a>
       <p> MongoDB   </p>
     </td>
+    
+  </tr>
   
+     
   <tr>
     <td align="center">
       <a href="              " target="_blank">
-        <img src="               " width="200"/></a>
+        <img src="               " width="200"/>
+      </a>
       <p>Python</p>
     </td>
     <td align="center">
       <a href="                    " target="_blank">
-        <img src="                 " width="200"/></a>
+        <img src="                 " width="200"/>
+      </a>
       <p>React</p>
     </td>
     <td align="center">
       <a href="               " target="_blank">
-        <img src="               " width="200"/></a>
+        <img src="               " width="200"/>
+      </a>
       <p>    SQL      </p>
     </td>
     <td align="center">
       <a href="        " target="_blank">
-        <img src="        " width="200"/></a>
+        <img src="        " width="200"/>
+      </a>
       <p> Salesforce  </p>
     </td>  
   </tr>
