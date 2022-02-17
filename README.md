@@ -52,28 +52,28 @@
     <tr>
     <td align="center">
       <a href="https://www.w3schools.com/html/" target="_blank">
-        <img src=" " width="200"/>
+        <img src="https://github.com/234ercan/234ercan/blob/main/HTML%20logo.png?raw=true" width="200"/>
       </a>
       <p>HTML 5</p>
     </td>
    
     <td align="center">
-      <a href="       " target="_blank">
-        <img src="                " width="200"/>
+      <a href="https://www.w3schools.com/html/" target="_blank">
+        <img src="https://github.com/234ercan/234ercan/blob/main/HTML%20logo.png?raw=true" width="200"/>
       </a>
       <p>CSS</p>
     </td>
     
     <td align="center">
-      <a href="     " target="_blank">
-        <img src="             " width="200"/>
+      <a href="https://www.w3schools.com/html/" target="_blank">
+        <img src="https://github.com/234ercan/234ercan/blob/main/HTML%20logo.png?raw=true" width="200"/>
       </a>
       <p>Java Script</p>
     </td>
     
     <td align="center">
-      <a href="           " target="_blank">
-        <img src="      " width="200"/>
+      <a href="https://www.w3schools.com/html/" target="_blank">
+        <img src="https://github.com/234ercan/234ercan/blob/main/HTML%20logo.png?raw=true" width="200"/>
       </a>
       <p> MongoDB   </p>
     </td>
