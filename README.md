@@ -94,18 +94,5 @@
       <p>Amazon Web Services (AWS)</p>
     </td>  
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://techproeducation.com/courses/cyber-security" target="_blank">
-        <img src="https://github.com/techproeducationgit/techproeducationgit/blob/master/images/techproeducation-cyber-security.png?raw=true" width="200"/></a>
-      <p>Cyber Security</p>
-    </td>
-    <td align="center">
-      <a href="https://techproeducation.com/courses/data-science" target="_blank">
-        <img src="https://github.com/techproeducationgit/techproeducationgit/blob/master/images/techproeducation-data-science-engineering.png?raw=true" width="200"/></a>
-      <p>Data Science Engineering</p>
-    </td>  
-    
-  </tr>
   
 </table>
