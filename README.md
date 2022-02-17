@@ -50,9 +50,9 @@
   <tr>
     <td align="center">
       <a href="https://www.w3schools.com/html/" target="_blank">
-        <img src=" https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F6%2F61%2FHTML5_logo_and_wordmark.svg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&tbnid=O2LAft90i-2uhM&vet=12ahUKEwi4mM_A6Yf2AhXIuSoKHealD-YQMygAegUIARDWAQ..i&docid=1Ted8cCjatfjsM&w=800&h=800&q=HTML&hl=en-GB&ved=2ahUKEwi4mM_A6Yf2AhXIuSoKHealD-YQMygAegUIARDWAQ#imgrc=O2LAft90i-2uhM&imgdii=r23f5THJx-OHoM" width="200"/>
+        <img src="C:\Users\234er\Downloads\HTML logo.png" width="200"/>
       </a>
-      <p>Full Stack Java Developer</p>
+      <p>HTML 5</p>
     </td>
     <td align="center">
       <a href="https://techproeducation.com/courses/full-stack-mobile-developer" target="_blank">
@@ -61,37 +61,37 @@
       <p>Full Stack Mobile Developer</p>
     </td>
     <td align="center">
-      <a href="https://techproeducation.com/courses/back-end-developer" target="_blank">
-        <img src="https://github.com/techproeducationgit/techproeducationgit/blob/master/images/techproeducation-back-end-developer.png?raw=true" width="200"/></a>
-      <p>Back-end Developer</p>
+      <a href="       " target="_blank">
+        <img src="                " width="200"/></a>
+      <p>CSS</p>
     </td>
     <td align="center">
-      <a href="https://techproeducation.com/courses/front-end-developer" target="_blank">
-        <img src="https://github.com/techproeducationgit/techproeducationgit/blob/master/images/techproeducation-frontend-developer.png?raw=true" width="200"/></a>
-      <p>Front-end Developer</p>
+      <a href="     " target="_blank">
+        <img src="             " width="200"/></a>
+      <p>Java Script</p>
     </td>
   </tr>
   
   <tr>
     <td align="center">
-      <a href="https://techproeducation.com/courses/salesforce-developer" target="_blank">
-        <img src="https://github.com/techproeducationgit/techproeducationgit/blob/master/images/techproeducation-sales-force-developer.png?raw=true" width="200"/></a>
-      <p>Salesforce Developer</p>
+      <a href="              " target="_blank">
+        <img src="               " width="200"/></a>
+      <p>Python</p>
     </td>
     <td align="center">
-      <a href="https://techproeducation.com/courses/full-stack-automation-engineer/" target="_blank">
-        <img src="https://github.com/techproeducationgit/techproeducationgit/blob/master/images/techproeducation-full-stack-automation-engineer.png?raw=true" width="200"/></a>
-      <p>Full Stack Automation Engineer</p>
+      <a href="                    " target="_blank">
+        <img src="                 " width="200"/></a>
+      <p>React</p>
     </td>
     <td align="center">
-      <a href="https://techproeducation.com/courses/aws-devops-engineering" target="_blank">
-        <img src="https://github.com/techproeducationgit/techproeducationgit/blob/master/images/techproeducation-aws-devops-engineering.png?raw=true" width="200"/></a>
-      <p>AWS DevOps Engineering</p>
+      <a href="               " target="_blank">
+        <img src="               " width="200"/></a>
+      <p>    SQL      </p>
     </td>
     <td align="center">
-      <a href="https://techproeducation.com/courses/amazon-web-services-aws" target="_blank">
-        <img src="https://github.com/techproeducationgit/techproeducationgit/blob/master/images/techproeducation-aws.png?raw=true" width="200"/></a>
-      <p>Amazon Web Services (AWS)</p>
+      <a href="        " target="_blank">
+        <img src="        " width="200"/></a>
+      <p> Salesforce  </p>
     </td>  
   </tr>
   
