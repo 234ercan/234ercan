@@ -5,8 +5,8 @@
 <ul>
   <li>Open to new opportunities!</li>
   <li>HTML, CSS, Javascript, Python, React, RN, MongoDB, NodeJS, SQL, Apex, LWC, Aura, Integration, Agile </li>
-  <li>linkedIn: www.linkedin.com/in/ercan-yilmaz-uk   &   https://www.linkedin.com/feed/ </li>
-  <li>https://trailblazer.me/id/ercanyilmaz </li>
+  <li><strong>linkedIn:</strong> www.linkedin.com/in/ercan-yilmaz-uk   &   https://www.linkedin.com/feed/ </li>
+  <li><strong>Trailhead:</strong> https://trailblazer.me/id/ercanyilmaz </li>
 </ul>
 
 <p align="justify">I am a web developer with the skills of PYTHON, HTML, CSS, JAVASCRIPT, NODE JS, REACT, REACT-NATIVE, MONGO DB, SQL, AGILE, GIT & GITHUB, Salesforce Apex, LWC, Aura, Integration... I have management experience over 10 years. Currently, I am working with Soft Innovas.</p>
