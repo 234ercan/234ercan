@@ -3,7 +3,7 @@
 <h3 align="center">Salesforce Developer</h3>
 <h3 align="center"> Full satck developer</h3>
 <ul>
-  <li>Open for new opportunities!</li>
+  <li>Open to new opportunities!</li>
   <li>HTML, CSS, Javascript, Python, React, RN, MongoDB, NodeJS, SQL, Apex, LWC, Aura, Integration, Agile </li>
   <li>linkedIn: www.linkedin.com/in/ercan-yilmaz-uk  https://www.linkedin.com/feed/ </li>
 </ul>
