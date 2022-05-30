@@ -1,7 +1,7 @@
 <img src="banner.jfif" class="center" style="width:150%;">
 <h1 align="center">Hi, I`m Ercan</h1>
 <h3 align="center">Salesforce Developer</h3>
-<h3 align="center"> Full satck developer</h3>
+<h3 align="center"> Full Stack developer</h3>
 <ul>
   <li>Open to new opportunities!</li>
   <li>HTML, CSS, Javascript, Python, React, RN, MongoDB, NodeJS, SOQL, Apex, LWC, Aura, Integration, Agile </li>
