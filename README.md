@@ -12,7 +12,6 @@
 <p align="justify">I am a web developer with the skills of PYTHON, HTML, CSS, JAVASCRIPT, NODE JS, REACT, REACT-NATIVE, MONGO DB, SQL, AGILE, GIT & GITHUB, Salesforce Apex, LWC, Aura, Integration... I have management experience over 10 years. Currently, I am working with Soft Innovas.</p>
 
 
-//
 
 <p>&nbsp;</p>
 <table width="100%" align="center">
