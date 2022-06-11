@@ -5,7 +5,7 @@
 <ul>
   <li>Open to new opportunities!</li>
   <li>HTML, CSS, Javascript, Python, React, RN, MongoDB, NodeJS, SOQL, Apex, LWC, Aura, Integration, Agile </li>
-  <li><strong>linkedIn:</strong>  <a href="https://www.linkedin.com/in/ercan-yilmaz-uk" target="_blank"><strong>LinkedIn</strong></a> </li>
+  <li><strong>linkedIn:</strong>  <a href="https://www.linkedin.com/in/ercan-yilmaz-uk" target="_blank"><strong>Ercan-Yilmaz-UK</strong></a> </li>
    <li><strong>Trailhead:</strong> https://trailblazer.me/id/ercanyilmaz </li>
 </ul>
 
