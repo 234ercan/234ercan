@@ -1,6 +1,6 @@
 <img src="banner.jfif" class="center" style="width:100%;">
 <h1 align="center">Hi, I`m Ercan</h1>
-<h3 align="center">Certified Salesforce Developer</h3>
+<h3 align="center">2X Certified Salesforce Developer</h3>
 <h3 align="center"> Full Stack developer</h3>
 <ul>
   <li>Open to new opportunities!</li>
