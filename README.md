@@ -82,7 +82,7 @@
       <p> Java </p>
     </td>  
     <td align="center">
-      <a href="        " target="_blank">
+      <a href=" https://www.javascript.com/       " target="_blank">
         <img src="        " width="200"/>
       </a>
       <p> JavaScript  </p>
