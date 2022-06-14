@@ -32,6 +32,7 @@
       <p>🚀</p>
       <b>  Innovative  </b>
     </td>
+    //
     <td align="center">
       <p>👥</p>
       <b>  Team Work  </b>
