@@ -32,7 +32,7 @@
       <p>🚀</p>
       <b>  Innovative  </b>
     </td>
-    //
+    
     <td align="center">
       <p>👥</p>
       <b>  Team Work  </b>
@@ -89,6 +89,6 @@
       <p> JavaScript  </p>
     </td>  
   </tr>
-  Deneme
+  
 </table>
 
