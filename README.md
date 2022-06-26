@@ -88,7 +88,7 @@
       </a>
       <p> JavaScript  </p>
     </td>  
-    <td>deneme</td>
+    <td>Apex</td>
   </tr>
   
 </table>
