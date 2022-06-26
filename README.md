@@ -88,6 +88,7 @@
       </a>
       <p> JavaScript  </p>
     </td>  
+    <td>deneme</td>
   </tr>
   
 </table>
