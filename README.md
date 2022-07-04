@@ -91,5 +91,4 @@
     <td>Apex</td>
     <td>SQL</td>
   </tr>
-  unutma
 </table>
