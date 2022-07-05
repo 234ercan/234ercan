@@ -90,5 +90,6 @@
     </td>  
     <td>Apex</td>
     <td>SQL</td>
+    <td>SQL</td>
   </tr>
 </table>
