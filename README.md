@@ -90,6 +90,6 @@
     </td>  
     <td>Apex</td>
     <td>LWC</td>
-    <td>SQL</td>
+    <td>Aura</td>
   </tr>
 </table>
