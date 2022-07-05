@@ -89,7 +89,7 @@
       <p> JavaScript  </p>
     </td>  
     <td>Apex</td>
-    <td>SQL</td>
+    <td>LWC</td>
     <td>SQL</td>
   </tr>
 </table>
