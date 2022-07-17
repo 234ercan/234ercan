@@ -87,7 +87,9 @@
       </a>
       <p> JavaScript  </p>
     </td>  
-    <td>Apex</td>
+    <td>
+    <p>Apex</p>
+    </td>
     <td>LWC</td>
     <td>Aura</td>
   </tr>
