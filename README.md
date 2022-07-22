@@ -97,16 +97,14 @@
       <a href="https://www.google.com" "target="_blank">
         <img src="   " width="200"/>
                                   </a>
-    <p>Apex</p>
+    <p>LWC</p>
     </td>
       <td>
       <a href="https://www.google.com" "target="_blank">
         <img src="   " width="200"/>
                                   </a>
-    <p>Apex</p>
+    <p>Aura</p>
     </td>
-    <td>LWC</td>
-    <td>Aura</td>
-  </tr>
+     </tr>
 </table>
 //*
