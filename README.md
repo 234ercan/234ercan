@@ -52,7 +52,7 @@
    
   <tr>
     <td align="center">
-      <a href="              " target="_blank">
+      <a href="      https://www.python.org/        " target="_blank">
         <img src="               " width="200"/>
       </a>
       <p>Python</p>
