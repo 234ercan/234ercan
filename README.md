@@ -64,8 +64,8 @@
       <p>React</p>
     </td>
     <td align="center">
-      <a href="               " target="_blank">
-        <img src="               " width="200"/>
+      <a href="   https://en.wikipedia.org/wiki/SQL            " target="_blank">
+        <img src="   https://en.wikipedia.org/wiki/SQL            " width="200"/>
       </a>
       <p>    SQL      </p>
     </td>
