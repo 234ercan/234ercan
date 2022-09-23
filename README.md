@@ -77,13 +77,13 @@
     </td>  
     <td align="center">
       <a href="  https://www.java.com/      " target="_blank">
-        <img src="        " width="200"/>
+        <img src="   https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png     " width="200"/>
       </a>
       <p> Java </p>
     </td>  
     <td align="center">
-      <a href=" https://www.javascript.com/       " target="_blank">
-        <img src="        " width="200"/>
+      <a href=" https://www.javascript.com      " target="_blank">
+        <img src="   https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png     " width="200"/>
       </a>
       <p> JavaScript  </p>
     </td>  
