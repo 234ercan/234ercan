@@ -102,7 +102,7 @@
       <td>
       <a href="https://www.google.com" "target="_blank">
         <img src=" https://i.ytimg.com/vi/CiqCfsTrlLA/maxresdefault.jpg  " width="200"/>
-                                  </a>
+      </a>
     <p>Aura</p>
     </td>
      </tr>
