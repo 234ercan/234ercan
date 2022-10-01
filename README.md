@@ -46,7 +46,7 @@
 <p>&nbsp;</p>
 
 <h2 align="center">Skills</h2>
-,mkll;;
+
 
 <table width="100%" align="center">
    
