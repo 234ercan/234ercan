@@ -107,15 +107,7 @@
     </td>
      </tr>
 </table>
-</br>
-<table width="100%" align="center">
- 
-</table>
-
 <p>&nbsp;</p>
-
-<h2 align="center">Skills</h2>
-
 
 <table width="100%" align="center">
    
