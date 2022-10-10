@@ -107,6 +107,12 @@
     </td>
      </tr>
                                                                                       
+                                                                                  
+                                                                                      
+</table>
+<p>&nbsp;</p>
+
+<table width="100%" align="center">
       <tr>
     <td align="center">
       <a href="https://www.python.org" target="_blank">
@@ -162,13 +168,7 @@
       </a>
     <p>Aura</p>
     </td>
-     </tr>                                                                                 
-                                                                                      
-</table>
-<p>&nbsp;</p>
-
-<table width="100%" align="center">
-   
+     </tr>  
  
 </table>
                                                                                       
