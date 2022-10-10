@@ -109,32 +109,7 @@
 </table>
 </br>
 <table width="100%" align="center">
-  <tr>
-    <td align="center">
-      <p>👨‍👨‍🎓</p>
-      <b>  2X  Father  </b>
-    </td>
-    <td align="center">
-      <p>🕸️</p>
-      <b> Mathematician </b>
-    </td>
-    <td align="center">
-      <p>🏆🏆🏆</p>
-      <b>Success Oriented</b>
-    </td>
-    <td align="center">
-      <p>🚀</p>
-      <b>  Innovative  </b>
-    </td>
-    <td align="center">
-      <p>👥</p>
-      <b>  Team Work  </b>
-    </td>
-    <td align="center">
-      <p>🗃️</p>
-      <b>  Communication </b>
-    </td>    
-  </tr>
+ 
 </table>
 
 <p>&nbsp;</p>
