@@ -166,7 +166,7 @@
       <a href="https://www.google.com" "target="_blank">
         <img src=" https://i.ytimg.com/vi/CiqCfsTrlLA/maxresdefault.jpg  " width="200"/>
       </a>
-    <p>Aura</p>
+    <p>SOSL</p>
     </td>
      </tr>  
  
