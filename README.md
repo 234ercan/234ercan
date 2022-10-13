@@ -1,6 +1,6 @@
 <img src="https://www.mastercard.com/news/media/vlfhx54n/cyber-tips-alt-banner.png?rnd=132791406581570000" width="1000" height="200">
 <h1 align="center">Hi, I`m Ercan</h1>
-<h3 align="center">2X Certified Salesforce Developer</h3>
+<h3 align="center">3X Certified Salesforce Developer</h3>
 <h3 align="center"> Full Stack developer</h3>
 <ul>
   <li>Open to new opportunities!</li>
