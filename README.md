@@ -1,7 +1,7 @@
 <img src="https://www.mastercard.com/news/media/vlfhx54n/cyber-tips-alt-banner.png?rnd=132791406581570000" width="1000" height="200">
 <h1 align="center">Hi, I`m Ercan</h1>
 <h3 align="center">3X Certified Salesforce Developer</h3>
-<h3 align="center"> Full Stack developer</h3>
+<h3 align="center"> Full Stack Developer</h3>
 <ul>
   <li>Open to new opportunities!</li>
   <li>HTML, CSS, Javascript, Apex, LWC, Aura, Integration, SOQL, Python, React, RN, MongoDB, NodeJS, SQL, Agile </li>
