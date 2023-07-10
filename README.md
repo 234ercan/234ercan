@@ -169,6 +169,6 @@
     <p>SOSL</p>
     </td>
      </tr>  
- 
+ <p>burasini simdi olusturdum</p>
 </table>
                                                                               
