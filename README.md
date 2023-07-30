@@ -136,7 +136,7 @@
       <a href="   https://trailhead.salesforce.com/     " target="_blank">
         <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="200"/>
       </a>
-      <p> REST/SOAP API  </p>
+      <p> REST API  </p>
     </td>  
     <td align="center">
       <a href="  https://www.java.com/      " target="_blank">
