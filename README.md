@@ -9,7 +9,7 @@
   <li><strong>Trailhead: </strong> <a href="https://trailblazer.me/id/ercanyilmaz" target="_blank"><strong>Ercan Yilmaz</strong></a> </li>
 </ul>
 
-<p align="justify">I am a Salesforce Developer with the skills of Apex, LWC, Aura, HTML, CSS, JAVASCRIPT, NODE JS, REACT, REACT-NATIVE, MONGO DB, SQL, SOQL, SOSL, AGILE, GIT & GITHUB, PYTHON,... I have management experience over 10 years.</p>
+<p align="justify">I am a certified Salesforce Developer with the skills of Apex, LWC, Aura, HTML, CSS, JAVASCRIPT, NODE JS, REACT, REACT-NATIVE, MONGO DB, SQL, SOQL, SOSL, AGILE, GIT & GITHUB, PYTHON,... I have management experience over 10 years.</p>
 
 
 
