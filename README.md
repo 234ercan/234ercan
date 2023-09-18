@@ -47,7 +47,6 @@
 
 <h2 align="center">Skills</h2>
 
-
 <table width="100%" align="center">
    
   <tr>
